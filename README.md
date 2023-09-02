@@ -4,13 +4,13 @@
 > #### 💡 My rout of learning how to use lasser cutter ####
 
 + With Chris Parsell's guidance, I learned to use the machine, reduce material waste through file adjustments, and test Acrylic intensity.
-<img width="1200" alt="how to operate the lasser cutter" src="https://github.com/IamCharleneLu/photo/blob/main/Ming-Chen(Charlene)%20Lu_Project%200.png">
+<img width="1200" alt="how to operate the lasser cutter" src="https://github.com/IamCharleneLu/documents./blob/README.md/Ming-Chen(Charlene)%20Lu_Project%200.png">
 
 + This is what I accomplished, and as a bonus, I made an adorable coaster for myself. I tried out RASTER cutting by engraving the words "Charlene Lu's Coaster on the coaster."
 <img width="1200" alt="how to operate the lasser cutter" src="https://github.com/IamCharleneLu/photo/blob/419bd80e9f9c7fad6811b292eb95fbbcd2051bd0/Weel01_02.png">
 
 > #### 💡 My rout of learning how to export 3Dprinting ####
-<img width="1200" alt="how to operate the lasser cutter" src="https://github.com/IamCharleneLu/photo/blob/main/Weel01_03.png">
+<img width="1200" src="https://github.com/IamCharleneLu/documents./blob/README.md/Weel01_03.png">
 
 
 > #### :sparkles: My Reflection ####
@@ -19,3 +19,4 @@
 
 > #### :sparkles: Are there points in the process where you think AI… ####
 + With the emerging black box AI platforms, design is becoming accessible and universal. With my background in industrial design, I think using AI for design makes people designers due to evolving AI tech. I also compare this to people relying on personal creativity, who I see as artists. This shows how tech changes creativity, but human artistry stays special even as AI enhances our abilities.
+
