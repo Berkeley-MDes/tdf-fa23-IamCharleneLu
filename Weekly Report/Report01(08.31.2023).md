@@ -1,4 +1,4 @@
-# Report 1 - Week of 08/24/2023 
+# Report 1 - Week of 08/31/2023 
 #### :mage::crystal_ball: Last week, I spent a huge amount of time to mastering the usage of the GitHub UI and Grasshopper. This was my first attempt at creating my own post on the platform. GitHub, to me, feels like a magical place where I can write code to create posts. I write some codes to generate a post.
 
 > #### 💡 My rout of learning how to use lasser cutter ####
