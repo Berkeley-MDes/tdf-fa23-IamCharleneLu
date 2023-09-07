@@ -1,3 +1,11 @@
+# My Weekly Report Document #
++ [Report 2 - Week of 09/07/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report02(09.07.2023).md)
++ [Report 1 - Week of 08/24/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report01(08.31.2023).md)
+
+# Weekly Personal Reflection Submission #
++ [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScqspv9M2VhEMZKcgY63FzYiWyErBZRzwlr6rHy4aniuMjwIA/viewform?pli=1&pli=1)
+
+
 # Report 2 - Week of 09/07/2023 
 ### ☁️ Brief: This is my second time writing a GitHub report, and I'm starting to feel quite familiar with the GitHub user interface. This week, I put my efforts into learning Grasshopper.
 
