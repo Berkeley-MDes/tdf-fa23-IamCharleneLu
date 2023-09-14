@@ -9,7 +9,7 @@
 # Report 3 - Week of 09/14/2023 
 ### 💡☁️ Brief: This week, I made great progress by creating my own Cloud Lamp in Grasshopper. Thanks to TJ's tutorial last week, I gained a better grasp of 3D modeling logic in Grasshopper. Using this knowledge, I successfully designed and even 3D printed my lamp.
 <img width="1200" src="https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/image/aa9697a3f7a61389675b8dc109518753.gif">
-> #### 💭  My rout of creating COULD LAMP ####
+#### 💭  My rout of creating COULD LAMP ####
 
 + Feeling the need for better lighting in my dimly lit room,  I decided to make my own table lamp. I ordered a G25 LED Globe Light Bulb and a lamp cord online. After examining the lighting kit, I realized that a shorter lamp wouldn't provide adequate coverage, so I chose to design a taller one, aiming for a height of approximately 15 millimeters.
 + In this project, I would like to create an adorable lamp with abstract designs. Drawing inspiration from dinosaurs' features and incorporating cloud imagery into my sketches, I hope this lamp will be a source of daily happiness for me.
