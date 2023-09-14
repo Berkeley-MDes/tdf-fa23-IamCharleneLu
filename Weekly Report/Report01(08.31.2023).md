@@ -5,14 +5,18 @@
 
 + Feeling the need for better lighting in my dimly lit room,  I decided to make my own table lamp. I ordered a G25 LED Globe Light Bulb and a lamp cord online. After examining the lighting kit, I realized that a shorter lamp wouldn't provide adequate coverage, so I chose to design a taller one, aiming for a height of approximately 15 millimeters.
 + In this project, I would like to create an adorable lamp with abstract designs. Drawing inspiration from dinosaurs' features and incorporating cloud imagery into my sketches, I hope this lamp will be a source of daily happiness for me.
-<img width="1200" src="https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/image/Report03_001.png">
+<img width="1200" src="https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/image/%E6%88%AA%E5%9C%96%202023-09-14%20%E4%B8%8A%E5%8D%888.28.02.png">
 
 > #### 💡 My rout of creating 3D model in Grasshopper ####
-+ Step1: Start by establishing an XY plane and constructing two cylinders based on this plane
-+ Step2: create an elevated XY plane and assemble three spheres together.
-+ Step3: generate a new cylinder to create a hole that passes through one of the cylinders and one of the spheres
-+ My Question!!! How can I create round corners all over the lamp?
-<img width="1200" src="https://github.com/IamCharleneLu/documents./blob/README.md/Weel01_03.png">
++ Step01: I started with a cylinder and adjusted 'x' to make another cylinder right next to it.
++ Step02:  I made a plane with 'z' set at 100 and put three spheres in different spots.
++ Step03:  I mushed those three spheres together, like a combo.
++ Step04:  I combined everything - cylinders and spheres alike.
++ Step05:  To create a hole inside, I copied one of the cylinders, changed its size, and used this tool called "solid difference" to carve a hole from bottom to top. That's where the light and cables go.
++ Step06: I made a YZ plane and created two cylinders with different sizes along the X-axis to make a hole at the bottom.
++ Step07:  I merged those two cylinders together.
++ Step08:  I cleaned up underneath. I made this random object and used "solid difference" to take away stuff under the ground.
+<img width="1200" src="https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/image/Report03_002.png">
 
 > #### 👩‍💻 My Reflection ####
 
