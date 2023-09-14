@@ -1,4 +1,5 @@
 # My Weekly Report Document #
++ [Report 3 - Week of 09/14/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report01(08.31.2023).md)
 + [Report 2 - Week of 09/07/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report02(09.07.2023).md)
 + [Report 1 - Week of 08/24/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report01(08.31.2023).md)
 
