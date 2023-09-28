@@ -7,7 +7,7 @@
 + In this project, I would like to create an adorable lamp with abstract designs. Drawing inspiration from dinosaurs' features and incorporating cloud imagery into my sketches, I hope this lamp will be a source of daily happiness for me.
 <img width="1200" src="https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/image/%E6%88%AA%E5%9C%96%202023-09-14%20%E4%B8%8A%E5%8D%888.28.02.png">
 
-> #### 💡 My rout of creating 3D model in Grasshopper ####
+#### 💡 My rout of creating 3D model in Grasshopper ####
 + Step01: I started with a cylinder and adjusted 'x' to make another cylinder right next to it.
 + Step02:  I made a plane with 'z' set at 100 and put three spheres in different spots.
 + Step03:  I mushed those three spheres together, like a combo.
