@@ -109,6 +109,12 @@ This week, my focus was on familiarizing myself with the Particle Photon2. I gai
 
 This week, I became more comfortable with Grasshopper, finding it easier to use. I'm eager to explore additional plugins in my free time, especially after Cody introduced us to the intriguing Kangaroo plugins last week. Cody's recent lecture was a highlight for me. His insights into real-world software applications were invaluable, and I found his work, such as the "Anaheim Regional Transportation Intermodal Center," incredibly inspiring due to its unique style.
 
+> speculations about the future of Computational Design and Digital Ecosystems
+1. Innovators and Creators: I believe that in the field of computational design, especially in AI, people will be split into two main groups: innovators and creators. Those with a strong scientific background will help create innovative solutions, while creative individuals will come up with unique ideas. People who aren't part of these two groups will likely work with robots and handle manufacturing tasks.
+2. AI Teachers: In the real world, children will begin learning how to harness the power of AI effectively to enhance their education. There are numerous AI tools that can aid in this process. For instance, children can use platforms like Midjourney to craft their own projects and utilize ChatGPT to discover fascinating information. Simultaneously, teachers will guide children in using their own creative skills to build their personalized AI toolkit.
+3. Create Guidelines for People to Follow: To prevent misuse of AI in work, daily life, and education, it's important to create clear guidelines for people to follow. These guidelines can help maintain order and prevent any AI-related conflicts or wars in the future. For instance, individuals should avoid excessive data usage, as it can introduce bias into research within the field.
+
+
 
 
 # Report 2 - Week of 09/07/2023 
