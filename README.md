@@ -1,4 +1,7 @@
 # My Weekly Report Document #
++ [Report 14 - Week of 11/30/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report14(11.30.2023).md)
++ [Report 13 - Week of 11/23/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report13(11.23.2023).md)
++ [Report 12 - Week of 11/16/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report12(11.16.2023).md)
 + [Report 11 - Week of 11/09/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report11(11.09.2023).md)
 + [Report 10 - Week of 11/02/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report10(11.02.2023).md)
 + [Report 8 - Week of 10/19/2023](https://github.com/Berkeley-MDes/tdf-fa23-IamCharleneLu/blob/main/Weekly%20Report/Report08(10.19.2023).md)
