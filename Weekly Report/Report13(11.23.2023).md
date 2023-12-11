@@ -1,5 +1,5 @@
 # Report 13 - Week of 11/23/2023 
-### 🪐 Brief: This week, I tested the metallic thread and conductive thread with Visual Studio Code.###
+### 🪐 Brief: This week, I tested the metallic thread and conductive thread with Visual Studio Code. ###
 > 
 A major challenge was ensuring distinct data sets from each hoop to Max/MSP. This required multiple code refinements in Visual Studio and adjustments in Max/MSP, transforming basic outputs into a sophisticated process of data handling.
 
